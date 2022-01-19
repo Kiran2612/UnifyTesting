@@ -1,4 +1,4 @@
-package JavaOperators;
+package java_operators;
 
     public class VotingEligibility
 
@@ -10,7 +10,7 @@ package JavaOperators;
             int num1=19;
             int num2=18;
 
-            if(num1<num2)
+            if(num1<=num2)
 
             System.out.println("Voter Not Eligible To Vote");
 

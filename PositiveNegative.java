@@ -1,9 +1,8 @@
-package JavaOperators;
+package java_operators;
 
 public class PositiveNegative {
 
     public static void main(String[] args) {
-
 
         int num1=-10;
 

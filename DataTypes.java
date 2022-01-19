@@ -1,4 +1,4 @@
-package JavaOperators;
+package java_operators;
 
 
 public class DataTypes {

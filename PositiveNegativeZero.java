@@ -1,11 +1,8 @@
-package JavaOperators;
+package java_operators;
 
 public class PositiveNegativeZero {
 
-
-
     public static void main(String[] args) {
-
 
         int num1=0;
 
@@ -16,6 +13,6 @@ public class PositiveNegativeZero {
             System.out.println(num1+ " is a positive number.");
 
         else
-            System.out.println(num1+" is 0.");
+            System.out.println(num1+" Number is 0.");
     }
 }

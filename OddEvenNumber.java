@@ -1,10 +1,8 @@
-package JavaOperators;
-
+package java_operators;
 
 public class OddEvenNumber {
 
     public static void main(String[] args) {
-
 
         int num1 = 16;
 
